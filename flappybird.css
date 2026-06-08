@@ -1,0 +1,10 @@
+body
+{
+    font-family: 'Arial', Arial, monospace;
+    text-align: center;
+}
+
+#board
+{
+    background-image: url("./game\ background.png");
+}
