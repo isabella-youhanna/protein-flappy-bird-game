@@ -129,7 +129,7 @@ function update()
         }
     }
 
-    while(pipeArray.length>0 && pipeArray[0].x<pipeArray[0].width-200)
+    while(pipeArray.length>0 && pipeArray[0].x<pipeArray[0].width<0)
     {
         pipeArray.shift();
     }
